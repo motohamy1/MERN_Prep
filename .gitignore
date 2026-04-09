@@ -41,3 +41,13 @@ app-example
 # generated native folders
 /ios
 /android
+
+# Missing Common Patterns
+build/
+*.log
+.env*
+Thumbs.db
+*.tmp
+*.swp
+.vscode/
+.idea/
